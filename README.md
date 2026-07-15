@@ -33,3 +33,7 @@ _Catatan: setelahnya klik kanan biasa akan langsung menerapkan tema tanpa harus 
 1.
  ```powershell
 scoop bucket add extras
+copy paste di powershell
+2. lalu install komorebi dan whkd
+```powershell
+scoop install komorebi whkd
