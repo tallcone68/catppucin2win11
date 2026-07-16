@@ -77,7 +77,7 @@ komorebic enable-autostart --whkd --masir
 ### YASB
 1. install dulu [jetbrainsmono propo](https://github.com/ryanoasis/nerd-fonts/releases/latest/download/JetBrainsMono.zip)
 2. ekstrak isi folder tersebut lalu install
-![](image-nerd-font.png)
+![](image/nerd-font.png)
 3. install yasb via scoop
 ```powershell
 scoop bucket add extras
